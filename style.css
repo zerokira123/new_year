@@ -81,7 +81,7 @@ body{
 	font-size: 35px;
 	font-weight: bold;
 	text-transform: capitalize;
-	-webkit-box-reflect: below 1px linear-gradient(transparent, #0004);
+	-webkit-box-reflect: below 1px linear-gradient(transparent, rgba(0, 0, 0, 0.653));
 }
 
 
